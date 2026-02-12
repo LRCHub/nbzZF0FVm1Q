@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "孤独の合唱",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-02-12T07:37:42.638333Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "孤独の合唱",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_孤独の合唱_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kodoku No Gasshou [孤独の合唱]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_Kodoku_No_Gasshou_[孤独の合唱]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "孤独の合唱",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_孤独の合唱_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
